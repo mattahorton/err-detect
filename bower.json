@@ -1,0 +1,27 @@
+{
+  "name": "workspace",
+  "dependencies": {
+    "handlebars": "~1.3.0",
+    "jquery": "^1.11.1",
+    "qunit": "~1.12.0",
+    "ember-qunit": "~0.1.5",
+    "ember": "1.5.1",
+    "ember-resolver": "~0.1.1",
+    "loader": "stefanpenner/loader.js#1.0.0",
+    "ember-cli-shims": "stefanpenner/ember-cli-shims#0.0.2",
+    "ember-load-initializers": "stefanpenner/ember-load-initializers#0.0.2",
+    "ember-qunit-notifications": "^0.0.3",
+    "ember-cli-test-loader": "rjackson/ember-cli-test-loader#0.0.2",
+    "ic-ajax": "~2.0.1",
+    "emberui": "~0.3.0",
+    "velocity": "https://github.com/julianshapiro/velocity.git#~0.9.0",
+    "twix": "~0.5.0",
+    "ember-listview": "https://github.com/geekingreen/ember-list-view.git#master",
+    "fontawesome": "~4.1.0",
+    "vexflow": "https://github.com/ringw/vexflow.git#musicxml"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.2.0",
+    "emberfire": "~1.0.13"
+  }
+}
